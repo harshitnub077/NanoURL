@@ -2,7 +2,7 @@
   "name": "nanourl",
   "version": "1.0.0",
   "description": "A modern, high-performance URL shortener built with Next.js, React, and TypeScript. Features real-time analytics, custom branding, and a beautiful responsive interface.",
-  "author": "Harshit Kudhial <harshit@example.com>",
+  "author": "Harshit Kudhial <harshitkudhial@gmail.com>",
   "license": "MIT",
   "private": true,
   "keywords": [
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/nanourl.git"
+    "url": "https://github.com/harshitnub077/NanoURL.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/nanourl/issues"
+    "url": "https://github.com/harshitnub077/NanoURL/issues"
   },
   "homepage": "https://nanourl.vercel.app",
   "scripts": {
