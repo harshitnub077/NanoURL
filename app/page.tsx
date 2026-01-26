@@ -1,6 +1,5 @@
 import { HeroSection } from '@/components/hero-section';
 import { ShortenUrlForm } from '@/components/shorten-url-form';
-import { FeatureShowcase } from '@/components/feature-showcase';
 import { RecentLinksCarousel } from '@/components/recent-links-carousel';
 
 export default function Home() {
@@ -9,7 +8,6 @@ export default function Home() {
       <HeroSection />
       <ShortenUrlForm />
       <RecentLinksCarousel />
-      <FeatureShowcase />
     </div>
   );
 }
