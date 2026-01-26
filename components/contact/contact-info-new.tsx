@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
-import { Mail, MapPin, Phone, Github, Linkedin, Code, Database, Layers } from "lucide-react";
+import { Mail, MapPin, Phone, Github, Linkedin, Code, Database } from "lucide-react";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
 
@@ -53,11 +53,6 @@ export function ContactInfo() {
       icon: <Database className="h-5 w-5" />,
       title: "Backend",
       skills: ["Node.js", "Express", "MongoDB", "SQL", "Firebase"]
-    },
-    {
-      icon: <Layers className="h-5 w-5" />,
-      title: "Other Skills",
-      skills: ["Git", "Docker", "AWS", "CI/CD", "Agile", "Data Structures"]
     }
   ];
 
