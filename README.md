@@ -8,7 +8,7 @@
 
 A **production-ready**, modern URL shortening platform built with cutting-edge web technologies. Features real-time analytics, custom branding, and a beautiful, responsive interface designed for performance and user experience.
 
-![NanoURL Preview](./public/preview.png)
+https://nano-url-eight.vercel.app
 
 ## ✨ Features
 
