@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A **production-ready**, modern URL shortening platform built with cutting-edge web technologies. Features real-time analytics, custom branding, and a beautiful, responsive interface designed for performance and user experience.
+A **production-ready**, modern URL shortening platform built with cutting-edge web technologies. Features real-time analytics, custom branding, and a beautiful, responsive interface designed for performance and user experience
 
 https://nano-url-eight.vercel.app
 
